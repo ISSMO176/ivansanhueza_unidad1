@@ -1,2 +1,3 @@
-#Ivan Sanhueza Meza
-#i.sanhueza@duocuc.cl
+# Ivan Sanhueza Meza
+# i.sanhueza@duocuc.cl
+# conflicto resuelto!!!
