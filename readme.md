@@ -2,3 +2,4 @@
 # i.sanhueza@duocuc.cl
 # conflicto resuelto!!!
 # navegación lista
+# estilo eliminado
